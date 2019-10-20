@@ -27,6 +27,7 @@ as described in the requirements and the steps in order to complete this
 assignment.
 WARNING!!! WARNING!!!
 
+
 */
 
 // STEP 1: (NOTHING TO DO. ALREADY DONE FOR YOU)
@@ -65,4 +66,4 @@ for (var i = 0; i < names.length; i++) {
   }
 }
 
-})();
+})(); // end of IIFE
